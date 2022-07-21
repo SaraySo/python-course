@@ -1,4 +1,4 @@
-''' Exercise #8. basic hotel management.'''
+''' basic hotel management.'''
 #########################################
 # Question 1 -  every Minibar has attributes
 #########################################
