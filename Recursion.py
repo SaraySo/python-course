@@ -1,4 +1,3 @@
-''' Exercise #1. Python for Engineers.'''
 
 #########################################
 # Question 1.a 
